@@ -1,1 +1,1 @@
-# Precourse-henry
+A continuación veremos algunos de los errores más típicos que pueden encontrarte cuando trabajas con Git y GitHub.
